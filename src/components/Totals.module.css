@@ -1,0 +1,7 @@
+.totals {
+    width:50%;
+    display: flex;
+    margin-bottom: 30px;
+    margin-top: 75px;
+    justify-content: space-around;
+}

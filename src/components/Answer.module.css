@@ -1,0 +1,30 @@
+.answer {
+    background-color: #1098ad;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    margin-bottom:20px;
+    padding:13px;
+    padding-left: 25px;
+    border-radius: 25px;
+    font-size:1.4em;
+    cursor: pointer;
+    transition: 0.4s;
+    border: none;
+    outline: none;
+    text-align:left;
+}
+.answer:hover {
+    margin-left: 25px;
+}
+.correctAnswer {
+    background-color: green !important;
+    margin-left: 25px;
+}
+.wrongAnswer {
+    background-color:red !important;
+    margin-left: 25px;
+}
+.hasAnswered {
+    cursor: not-allowed;
+}

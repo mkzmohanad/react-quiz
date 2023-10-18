@@ -1,0 +1,7 @@
+.progress {
+    width : 40%;
+    padding:12px;
+}
+.progress::-webkit-progress-value {
+    background-color: red;
+}

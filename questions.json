@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "What sport does Cristiano Ronaldo play?",
+        "options": ["Basketball", "Football", "Boxing", "volleyball"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "How many bones are there in the human body?",
+        "options": ["150", "216", "196", "206"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "Which planet is closest to Earth?",
+        "options": ["Venus", "Pluto", "Mars", "Uranus"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What temperature (in Fahrenheit) does water freeze at?",
+        "options": ["0 degrees", "64 degrees", "32 degrees", "55 degrees"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "How many players are there on a baseball team?",
+        "options": ["9" , "7" , "10" , "5"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What language is the most popularly spoken worldwide?",
+        "options": ["Mandarin Chinese", "English", "Hindi", "Spanish"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "What vegetable is known to help you see in the dark?",
+        "options": ["Onion" , "Pepper" , "Cucumber" , "Carrot"],
+        "correctOption": 3,
+        "points": 30
+      },
+      {
+        "question": "What city is known as the City of Love?",
+        "options": ["London" , "Roma" , "Paris" , "Madrid"],
+        "correctOption": 2,
+        "points": 20
+      },
+      {
+        "question": "Which U.S. State is the largest?",
+        "options": ["Florida" , "Hawaii" , "California" , "Alaska"],
+        "correctOption": 3,
+        "points": 20
+      },
+      {
+        "question": "How many days are in a leap year?",
+        "options": ["364 days" , "365 days" , "363 days" , "366 days"],
+        "correctOption": 3,
+        "points": 30
+      },
+      {
+        "question": "Who founded Microsoft?",
+        "options": ["Elon Musk" , "Mark Zuckerberg" , "Bill Gates" , "Zhang Yiming"
+        ],
+        "correctOption": 2,
+        "points": 30
+      },
+      {
+        "question": "How many hearts does an octopus have?",
+        "options": ["1", "3", "4", "5"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "How many planets are in our solar system? (Including Pluto!)",
+        "options": ["7" , "8" , "9" , "10"],
+        "correctOption": 2,
+        "points": 30
+      },
+      {
+        "question": "Which planet in our solar system is the largest?",
+        "options": ["Jupiter" , "Earth" , "Mars" , "Venus"],
+        "correctOption": 0,
+        "points": 30
+      },
+      {
+        "question": "Which famous artist painted the Mona Lisa?",
+        "options": ["Vincent van Gogh" , "Michelangelo Buonarroti" , "Pablo Picasso" , "Leonardo Da Vinci"],
+        "correctOption": 3,
+        "points": 20
+      }
+    ]
+}
